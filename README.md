@@ -1,6 +1,3 @@
-# My First GitHub Project
-I'll combine everything into one complete `README.md` that reflects your current **SRE developer workstation setup** and project direction. Copy the entire content below and replace your existing `README.md`.
-
 # myPythonProject
 
 # SRE Engineering Development Repository
