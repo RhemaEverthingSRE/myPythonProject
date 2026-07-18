@@ -3,21 +3,19 @@ __pycache__/
 *.py[cod]
 
 # Virtual environments
-venv/
 .venv/
-env/
+venv/
 
 # Environment variables
 .env
 
-# IDE files
+# VS Code settings
 .vscode/
-.idea/
 
 # macOS files
 .DS_Store
 
-# Testing files
+# Testing
 .pytest_cache/
 
 # Build files
